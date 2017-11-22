@@ -1,0 +1,22 @@
+{
+  "name": "guessbot",
+  "version": "1.0.0",
+  "description": "Because gambling is fun!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "giphy-api": "^1.2.7",
+    "google-images": "^2.1.0",
+    "opusscript": "0.0.4",
+    "request": "^2.83.0"
+  }
+}
